@@ -11,10 +11,6 @@ import org.apache.commons.lang3.StringUtils;
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 
-/**
- * @author liyebing created on 17/1/21.
- * @version $Id$
- */
 public class FDateJsonDeserializer extends JsonDeserializer<Date> {
 
     static final String PATTERN = "yyyy-MM-dd HH:mm:ss";

@@ -11,10 +11,6 @@ import org.jboss.marshalling.MarshallingConfiguration;
 import org.jboss.marshalling.Unmarshaller;
 import org.rpc.serialzation.ISerializer;
 
-/**
- * @author liyebing created on 17/3/31.
- * @version $Id$
- */
 public class MarshallingSerializer implements ISerializer {
 
     final static MarshallingConfiguration configuration = new MarshallingConfiguration();

@@ -2,10 +2,6 @@ package org.rpc.serialzation.common;
 
 import org.apache.commons.lang.StringUtils;
 
-/**
- * @author liyebing created on 17/2/11.
- * @version $Id$
- */
 public enum SerializeType {
 
     DefaultJavaSerializer("DefaultJavaSerializer"),

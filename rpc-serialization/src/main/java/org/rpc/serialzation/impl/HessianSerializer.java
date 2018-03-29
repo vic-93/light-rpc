@@ -7,10 +7,6 @@ import org.rpc.serialzation.ISerializer;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 
-/**
- * @author liyebing created on 17/1/21.
- * @version $Id$
- */
 public class HessianSerializer implements ISerializer {
 
 

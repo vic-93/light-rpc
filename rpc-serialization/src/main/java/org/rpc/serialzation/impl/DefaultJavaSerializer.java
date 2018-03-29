@@ -7,13 +7,6 @@ import java.io.ObjectOutputStream;
 
 import org.rpc.serialzation.ISerializer;
 
-/**
- * Java默认序列化<br>
- *
- * @author andy.hu
- * @date 18/3/18 上午2:00
- * @version V1.0
- */
 public class DefaultJavaSerializer implements ISerializer {
 
 

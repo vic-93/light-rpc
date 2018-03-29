@@ -12,10 +12,6 @@ import org.rpc.serialzation.common.FDateJsonSerializer;
 
 import java.util.Date;
 
-/**
- * @author liyebing created on 17/1/21.
- * @version $Id$
- */
 public class JSONSerializer implements ISerializer {
 
 

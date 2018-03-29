@@ -9,10 +9,6 @@ import org.apache.commons.lang3.time.FastDateFormat;
 import java.io.IOException;
 import java.util.Date;
 
-/**
- * @author liyebing created on 17/1/21.
- * @version $Id$
- */
 public class FDateJsonSerializer extends JsonSerializer<Date> {
 
     private static final FastDateFormat DATE_FORMAT = FastDateFormat.getInstance("yyyy-MM-dd HH:mm:ss");

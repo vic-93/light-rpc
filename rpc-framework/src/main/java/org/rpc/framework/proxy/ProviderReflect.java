@@ -64,6 +64,11 @@ public class ProviderReflect {
                     e.printStackTrace();
                 }
                 try {
+                    out.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                try {
                     socket.close();
                 } catch (IOException e) {
                     e.printStackTrace();

@@ -17,10 +17,6 @@ import org.rpc.serialzation.impl.ProtocolBufferSerializer;
 import org.rpc.serialzation.impl.ThriftSerializer;
 import org.rpc.serialzation.impl.XmlSerializer;
 
-/**
- * @author liyebing created on 17/1/23.
- * @version $Id$
- */
 public class SerializerEngine {
 
     public static final Map<SerializeType, ISerializer> serializerMap = Maps.newConcurrentMap();

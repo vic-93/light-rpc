@@ -7,10 +7,6 @@ import org.apache.thrift.TSerializer;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import org.rpc.serialzation.ISerializer;
 
-/**
- * @author liyebing created on 17/1/25.
- * @version $Id$
- */
 public class ThriftSerializer implements ISerializer {
 
 

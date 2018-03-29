@@ -3,10 +3,6 @@ package org.rpc.serialzation.impl;
 import org.apache.commons.lang3.reflect.MethodUtils;
 import org.rpc.serialzation.ISerializer;
 
-/**
- * @author liyebing created on 17/1/25.
- * @version $Id$
- */
 public class ProtocolBufferSerializer implements ISerializer {
 
 
