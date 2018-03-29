@@ -13,6 +13,8 @@
         <module>rpc-serialization</module>
         <module>rpc-test</module>
         <module>rmi-demo</module>
+        <module>cxf-spring</module>
+        <module>axis2-spring</module>
     </modules>
 
     <properties>
