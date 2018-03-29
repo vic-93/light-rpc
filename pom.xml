@@ -15,6 +15,7 @@
         <module>rmi-demo</module>
         <module>cxf-spring</module>
         <module>axis2-spring</module>
+        <module>rpc-framework</module>
     </modules>
 
     <properties>
