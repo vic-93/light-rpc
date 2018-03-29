@@ -11,6 +11,8 @@
 
     <modules>
         <module>rpc-serialization</module>
+        <module>rpc-test</module>
+        <module>rmi-demo</module>
     </modules>
 
     <properties>
