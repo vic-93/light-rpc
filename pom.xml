@@ -16,6 +16,7 @@
         <module>cxf-spring</module>
         <module>axis2-spring</module>
         <module>rpc-framework</module>
+        <module>spring-rpc</module>
     </modules>
 
     <properties>
